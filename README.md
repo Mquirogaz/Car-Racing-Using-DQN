@@ -1,8 +1,8 @@
-# Proyecto de la asignatura Minería de Datos
+
 
 ## Descripción general del proyecto
 
-Este proyecto de minería de datos tiene como objetivo crear un agente de aprendizaje por refuerzo para el juego CarRacing-v2. El objetivo principal del agente es aprender a conducir un automóvil en una pista de carreras, maximizando la puntuación obtenida y evitando obstáculos. El proyecto no pudo ser finalizado y el codigo actualmente no cumple con el objetivo propuesto. Esto sera solucionado en versiones posteriores del codigo sin embargo, sirve como ejemplo para visualizar la estructura de esta red neuronal y funciona como modelo explicativo. Este trabajo se baso en el ejemplo del siguiente ejemplo:Capstone Project – Car Racing Using DQN
+Este proyecto tiene como objetivo crear un agente de aprendizaje por refuerzo para el juego CarRacing-v2. El objetivo principal del agente es aprender a conducir un automóvil en una pista de carreras, maximizando la puntuación obtenida y evitando obstáculos. El proyecto no pudo ser finalizado y el codigo actualmente no cumple con el objetivo propuesto. Esto sera solucionado en versiones posteriores del codigo sin embargo, sirve como ejemplo para visualizar la estructura de esta red neuronal y funciona como modelo explicativo. Este trabajo se baso en el ejemplo del siguiente ejemplo:Capstone Project – Car Racing Using DQN
  https://learning.oreilly.com/library/view/hands-on-reinforcement-learning/9781788836524/4929bee3-df49-40e9-977f-9360293ad8ed.xhtml
 
 
